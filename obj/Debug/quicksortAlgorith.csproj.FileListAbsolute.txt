@@ -1,0 +1,6 @@
+C:\Users\pablo\OneDrive\Documents\SharpDevelop Projects\AulasCSharp\quicksortAlgorith\obj\Debug\quicksortAlgorith.csprojResolveAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documents\SharpDevelop Projects\AulasCSharp\quicksortAlgorith\bin\Debug\quicksortAlgorith.exe.config
+C:\Users\pablo\OneDrive\Documents\SharpDevelop Projects\AulasCSharp\quicksortAlgorith\bin\Debug\quicksortAlgorith.exe
+C:\Users\pablo\OneDrive\Documents\SharpDevelop Projects\AulasCSharp\quicksortAlgorith\bin\Debug\quicksortAlgorith.pdb
+C:\Users\pablo\OneDrive\Documents\SharpDevelop Projects\AulasCSharp\quicksortAlgorith\obj\Debug\quicksortAlgorith.exe
+C:\Users\pablo\OneDrive\Documents\SharpDevelop Projects\AulasCSharp\quicksortAlgorith\obj\Debug\quicksortAlgorith.pdb
